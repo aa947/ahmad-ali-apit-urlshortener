@@ -1,5 +1,9 @@
 #  URL sohrting API By Ahmad Ali
 
+
+### live at : 
+https://ahmad-ali-apit-urlshortener--ahmadali5.repl.co/
+
 ### In this project:
 
 1- POST a URL to /api/shorturl/new and you will receive a shortened URL in the JSON response.
@@ -12,8 +16,6 @@ Example : {"original_url":"www.google.com","short_url":1}
 4- When you visit the shortened URL, it will redirect me to the original link.
 
 
-### live at : 
-https://ahmad-ali-apit-urlshortener--ahmadali5.repl.co/
 
 ### my portfolio:
 http://ahmad-ali.co.uk/
