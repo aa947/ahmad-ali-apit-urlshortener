@@ -1,4 +1,4 @@
-#  URL sohrting API By Ahmad Ali
+#  URL shortening API By Ahmad Ali
 
 
 ### live at : 
