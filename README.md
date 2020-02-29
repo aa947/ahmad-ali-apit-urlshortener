@@ -15,6 +15,10 @@ Example : {"original_url":"www.google.com","short_url":1}
 
 4- When you visit the shortened URL, it will redirect me to the original link.
 
+### vdeio:
+[![URL shortening API By Ahmad Ali ](http://img.youtube.com/vi/YqwMeXG7BSU/0.jpg)](http://www.youtube.com/watch?v=YqwMeXG7BSU "URL shortening API By Ahmad Ali ")
+
+
 
 
 ### my portfolio:
